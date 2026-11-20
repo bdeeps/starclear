@@ -1,0 +1,1084 @@
+{
+  "title": "The history of how stars shine",
+  "tagline": "From a Greek thinker's 'red-hot stone' to detectors deep underground that catch particles from the Sun's core.",
+  "intro": "For most of history, nobody knew what kept the Sun burning. In the 1800s, light split into colours showed what stars are made of, but physics could only explain a Sun a few tens of millions of years old. In the 1900s, atomic physics revealed fusion. Neutrino detectors later confirmed it from inside the Sun.",
+  "eras": [
+    {
+      "id": "fire",
+      "name": "Fire in the sky",
+      "from": -500,
+      "to": 1900,
+      "color": "#ffb547",
+      "summary": "Thinkers ask what the Sun is. Physicists in the 1800s blame gravity and a shrinking Sun, and get an age far too short for geology."
+    },
+    {
+      "id": "light",
+      "name": "Reading starlight",
+      "from": 1814,
+      "to": 1925,
+      "color": "#c49bff",
+      "summary": "Spectra reveal the elements in the Sun. Women at Harvard sort hundreds of thousands of stars, and their order turns out to be temperature."
+    },
+    {
+      "id": "source",
+      "name": "The source of the fire",
+      "from": 1920,
+      "to": 1960,
+      "color": "#ff7a59",
+      "summary": "Mass measurements and quantum physics point to fusion. Bethe works out the reactions, and B2FH shows stars make the elements."
+    },
+    {
+      "id": "ghost",
+      "name": "Ghost particles",
+      "from": 1930,
+      "to": 2020,
+      "color": "#8ef0ff",
+      "summary": "Neutrinos from the core let us check fusion directly. A 30-year shortfall turns out to be neutrinos changing type."
+    }
+  ],
+  "events": [
+    {
+      "year": -450,
+      "date": "5th century BCE",
+      "era": "fire",
+      "art": "flame",
+      "key": true,
+      "title": "The Sun is a hot stone, not a god",
+      "who": "Anaxagoras of Clazomenae",
+      "where": "Athens, Greece",
+      "country": "Greece",
+      "text": "The Greek thinker Anaxagoras said the Sun was a red-hot stone or mass of metal. He said it was bigger than the Peloponnese, a large part of Greece. He was later charged with impiety and left Athens.",
+      "why": "It is one of the earliest known attempts to explain the Sun as a physical object.",
+      "box": "",
+      "sources": [
+        6,
+        7
+      ]
+    },
+    {
+      "year": 1814,
+      "date": "1814",
+      "era": "light",
+      "art": "colour",
+      "title": "Dark lines in sunlight",
+      "who": "Joseph von Fraunhofer",
+      "where": "Bavaria",
+      "country": "Germany",
+      "text": "Fraunhofer, a glassmaker, passed sunlight through a narrow slit and a prism. He saw many dark lines cutting across the colours. He mapped hundreds of them, and the count usually given is 574.",
+      "why": "These lines later became the barcode that tells us what stars are made of.",
+      "box": "colour",
+      "sources": [
+        8,
+        9
+      ]
+    },
+    {
+      "year": 1854,
+      "date": "1854",
+      "era": "fire",
+      "art": "flame",
+      "key": true,
+      "title": "The shrinking-Sun idea",
+      "who": "Hermann von Helmholtz",
+      "where": "Germany",
+      "country": "Germany",
+      "text": "Helmholtz suggested the Sun stays hot because it slowly shrinks. Gravity squeezes it, and the lost energy comes out as heat and light. His own numbers imply a Sun only some tens of millions of years old.",
+      "why": "It was the best answer for half a century, and it set up a clash with geologists.",
+      "box": "balance",
+      "sources": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "year": 1854,
+      "date": "1854",
+      "era": "fire",
+      "art": "scroll",
+      "title": "A Sun fed by falling meteors",
+      "who": "William Thomson (later Lord Kelvin)",
+      "where": "Britain",
+      "country": "United Kingdom",
+      "text": "Thomson first argued that meteors falling into the Sun kept it hot. From this idea he judged the Sun could hardly have shone for much more than about 32,000 years.",
+      "why": "It was one of the first attempts to put a number on the Sun's age using physics.",
+      "box": "",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1859,
+      "date": "1859–1860",
+      "era": "light",
+      "art": "flask",
+      "key": true,
+      "title": "Reading the elements in light",
+      "who": "Gustav Kirchhoff and Robert Bunsen",
+      "where": "Heidelberg, Germany",
+      "country": "Germany",
+      "text": "Bunsen and Kirchhoff built a spectroscope and showed that each element makes its own pattern of lines. Kirchhoff used it to explain dark lines in sunlight. He went on to identify about 30 elements in the Sun.",
+      "why": "For the first time, people could learn what a star is made of without touching it.",
+      "box": "colour",
+      "sources": [
+        10,
+        11
+      ]
+    },
+    {
+      "year": 1862,
+      "date": "1862",
+      "era": "fire",
+      "art": "scroll",
+      "title": "Kelvin puts a limit on the Sun's age",
+      "who": "William Thomson (later Lord Kelvin)",
+      "where": "Britain",
+      "country": "United Kingdom",
+      "text": "In a magazine article on the age of the Sun's heat, Thomson now backed the shrinking-Sun idea. He judged the Sun had most probably shone for less than 100 million years, and almost certainly less than 500 million.",
+      "why": "Geologists and biologists needed far more time, and the argument lasted decades.",
+      "box": "",
+      "sources": [
+        1,
+        49
+      ]
+    },
+    {
+      "year": 1868,
+      "date": "18 August and 20 October 1868",
+      "era": "light",
+      "art": "eclipse",
+      "title": "A new element found in the Sun",
+      "who": "Pierre Janssen and Norman Lockyer",
+      "where": "Guntur, India, and England",
+      "country": "India",
+      "text": "During a solar eclipse seen from India, Janssen spotted a bright yellow line no known element made. Lockyer saw the same line in England weeks later. The element was named helium, after the Greek word for the Sun.",
+      "why": "Helium is the ash of the fusion that powers the Sun, found in sunlight before it was found on Earth.",
+      "box": "",
+      "sources": [
+        11,
+        12
+      ]
+    },
+    {
+      "year": 1870,
+      "date": "1860s; illustrated in 1870",
+      "era": "light",
+      "art": "colour",
+      "title": "Sorting stars by their spectra",
+      "who": "Angelo Secchi",
+      "where": "Italy",
+      "country": "Italy",
+      "text": "Secchi looked at the spectra of many stars and sorted them into a few classes. His 1870 book on the Sun shows white, yellow and red-to-orange star types.",
+      "why": "It was an early step toward the temperature sequence astronomers use today.",
+      "box": "colour",
+      "sources": [
+        13
+      ]
+    },
+    {
+      "year": 1878,
+      "date": "1878",
+      "era": "fire",
+      "art": "scroll",
+      "title": "Newcomb repeats the short timescale",
+      "who": "Simon Newcomb",
+      "where": "United States",
+      "country": "United States",
+      "text": "The American astronomer Simon Newcomb used the shrinking-Sun idea too. He got a total life for the Sun of about 18 million years.",
+      "why": "It shows how widely the short timescale was accepted.",
+      "box": "",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1885,
+      "date": "From about 1885",
+      "era": "light",
+      "art": "person",
+      "title": "The Harvard computers start sorting spectra",
+      "who": "Williamina Fleming and the Harvard computers",
+      "where": "Harvard College Observatory, Cambridge, Massachusetts",
+      "country": "United States",
+      "text": "At Harvard, women hired as 'computers' studied stellar spectra on glass plates. Williamina Fleming, from Dundee in Scotland, sorted stars into more than a dozen lettered types. She also found the Horsehead Nebula on an 1888 plate.",
+      "why": "Her lettered types were the raw material for the system still used today.",
+      "box": "",
+      "sources": [
+        14,
+        16,
+        19
+      ]
+    },
+    {
+      "year": 1887,
+      "date": "1887",
+      "era": "fire",
+      "art": "thermometer",
+      "title": "Kelvin settles on 20 million years",
+      "who": "Lord Kelvin",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "In a lecture at the Royal Institution, Kelvin refined his model of the shrinking Sun. He concluded the Sun could not have shone strongly for more than about 20 million years.",
+      "why": "The figure was far too short, but nobody yet knew of a better energy source.",
+      "box": "life",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1895,
+      "date": "1895",
+      "era": "light",
+      "art": "flask",
+      "title": "Helium found on Earth",
+      "who": "William Ramsay",
+      "where": "Britain",
+      "country": "United Kingdom",
+      "text": "Ramsay released a gas from a uranium mineral called cleveite. Its spectrum showed the same yellow line seen in the Sun in 1868. Helium was real, and it was here too.",
+      "why": "It confirmed that the Sun and the Earth are made of the same kinds of atoms.",
+      "box": "",
+      "sources": [
+        11,
+        12
+      ]
+    },
+    {
+      "year": 1897,
+      "date": "1897",
+      "era": "light",
+      "art": "plate",
+      "title": "Antonia Maury spots the giants",
+      "who": "Antonia Maury",
+      "where": "Harvard College Observatory, Cambridge, Massachusetts",
+      "country": "United States",
+      "text": "Maury published her own detailed classification of bright northern stars. She also sorted stars by how sharp or wide their lines looked. Ejnar Hertzsprung later used her sharp-line stars to tell giants from dwarfs.",
+      "why": "Her idea led straight to the Hertzsprung–Russell diagram.",
+      "box": "colour",
+      "sources": [
+        15,
+        16,
+        21
+      ]
+    },
+    {
+      "year": 1901,
+      "date": "1901; adopted worldwide in 1922",
+      "era": "light",
+      "art": "colour",
+      "key": true,
+      "title": "O, B, A, F, G, K, M",
+      "who": "Annie Jump Cannon",
+      "where": "Harvard College Observatory, Cambridge, Massachusetts",
+      "country": "United States",
+      "text": "Annie Jump Cannon published her first catalogue of star spectra in 1901. She rearranged earlier letter classes into the order O, B, A, F, G, K, M. She went on to sort the spectra of hundreds of thousands of stars.",
+      "why": "Her order turned out to be a temperature scale, from the hottest stars to the coolest.",
+      "box": "colour",
+      "sources": [
+        18,
+        17,
+        19,
+        16
+      ]
+    },
+    {
+      "year": 1913,
+      "date": "1911 and 1913",
+      "era": "light",
+      "art": "telescope",
+      "key": true,
+      "title": "A map of all the stars",
+      "who": "Ejnar Hertzsprung and Henry Norris Russell",
+      "where": "Europe, and Princeton, USA",
+      "country": "United States",
+      "text": "Hertzsprung in 1911 and Russell in 1913 each plotted how bright stars are against their colour or spectral type. Most stars fell on one diagonal band, now called the main sequence. A few bright, cool giants sat above it.",
+      "why": "Stars on the main sequence are fusing hydrogen in their cores, though nobody knew that yet.",
+      "box": "colour",
+      "sources": [
+        20,
+        21
+      ]
+    },
+    {
+      "year": 1920,
+      "date": "August 1920",
+      "era": "source",
+      "art": "scales",
+      "title": "Helium is a little too light",
+      "who": "Francis Aston",
+      "where": "England (presented in Cardiff, Wales)",
+      "country": "United Kingdom",
+      "text": "Aston measured atomic masses with great care. A helium atom weighs a little less than the four hydrogen atoms that could make it. The missing part is about 1 in 120.",
+      "why": "That missing mass is the energy that lights the stars.",
+      "box": "fusion",
+      "sources": [
+        3,
+        2
+      ]
+    },
+    {
+      "year": 1920,
+      "date": "24 August 1920",
+      "era": "source",
+      "art": "atomspin",
+      "key": true,
+      "title": "Eddington proposes fusion",
+      "who": "Arthur Eddington",
+      "where": "Cardiff, Wales",
+      "country": "United Kingdom",
+      "text": "In a talk to the British Association in Cardiff, Eddington said stars could be powered by subatomic energy. Using Aston's result, he suggested stars turn hydrogen into helium. He dismissed the shrinking-Sun theory.",
+      "why": "It was the first clear proposal that stars run on what we now call nuclear fusion.",
+      "box": "fusion",
+      "sources": [
+        3,
+        2,
+        0,
+        27
+      ]
+    },
+    {
+      "year": 1920,
+      "date": "1920",
+      "era": "light",
+      "art": "thermometer",
+      "title": "Saha's equation explains star spectra",
+      "who": "Meghnad Saha",
+      "where": "Calcutta, India",
+      "country": "India",
+      "text": "Saha showed how heat and pressure strip electrons from atoms in a hot gas. His formula linked a star's spectrum to its temperature. He published it in 1920 while working in Calcutta.",
+      "why": "It explained why the Harvard spectral classes form a temperature sequence.",
+      "box": "colour",
+      "sources": [
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "year": 1925,
+      "date": "1925",
+      "era": "light",
+      "art": "person",
+      "key": true,
+      "title": "Stars are mostly hydrogen",
+      "who": "Cecilia Payne",
+      "where": "Harvard College Observatory, Cambridge, Massachusetts",
+      "country": "United States",
+      "text": "In her PhD thesis, Payne applied the new ionisation theory to star spectra. She found that hydrogen and helium are by far the most common elements in stars. Henry Norris Russell called the hydrogen result \"clearly impossible\", so she added a note doubting it.",
+      "why": "She was right, and today we know hydrogen is the fuel that stars burn.",
+      "box": "fusion",
+      "sources": [
+        25,
+        26,
+        5
+      ]
+    },
+    {
+      "year": 1928,
+      "date": "1928",
+      "era": "source",
+      "art": "atomspin",
+      "title": "Quantum tunnelling",
+      "who": "George Gamow",
+      "where": "Europe",
+      "country": "",
+      "text": "Gamow, a young Russian physicist, used the new quantum mechanics to explain how particles escape from atomic nuclei. The same idea works in reverse. Particles can slip through the electric barrier that keeps nuclei apart.",
+      "why": "Without tunnelling, the Sun's core would be far too cool for fusion.",
+      "box": "fusion",
+      "sources": [
+        0,
+        2
+      ]
+    },
+    {
+      "year": 1929,
+      "date": "Spring 1929",
+      "era": "source",
+      "art": "atomspin",
+      "title": "Fusion meets quantum theory",
+      "who": "Robert Atkinson and Fritz Houtermans",
+      "where": "Europe",
+      "country": "",
+      "text": "Atkinson, from Britain, and Houtermans, from Germany, applied Gamow's idea to the hot centre of a star. They argued that light nuclei could capture protons and release helium. Their paper drew little notice at first.",
+      "why": "It is often seen as the start of nuclear astrophysics.",
+      "box": "fusion",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1930,
+      "date": "1930; dispute in 1935",
+      "era": "source",
+      "art": "blackhole",
+      "title": "A limit for dead stars",
+      "who": "Subrahmanyan Chandrasekhar",
+      "where": "At sea, on the way from India to England",
+      "country": "India",
+      "text": "On a ship to Cambridge, the young Chandrasekhar added relativity to the physics of white dwarfs. He found a star above a certain mass cannot settle as a white dwarf. The limit is about 1.4 times the Sun's mass. Eddington attacked the idea in 1935.",
+      "why": "It showed that heavy stars must end as something stranger, and he won the 1983 Nobel Prize in Physics for his work on stars.",
+      "box": "life",
+      "sources": [
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "year": 1930,
+      "date": "4 December 1930",
+      "era": "ghost",
+      "art": "atomspin",
+      "title": "Pauli invents a ghost particle",
+      "who": "Wolfgang Pauli",
+      "where": "Europe",
+      "country": "",
+      "text": "Some energy seemed to vanish when nuclei decayed. Pauli wrote a letter to fellow physicists proposing a tiny neutral particle that carried it away. It was later named the neutrino.",
+      "why": "Fusion in the Sun makes huge numbers of neutrinos, and they would become a way to look inside it.",
+      "box": "walk",
+      "sources": [
+        32
+      ]
+    },
+    {
+      "year": 1938,
+      "date": "1938",
+      "era": "source",
+      "art": "atomspin",
+      "title": "The carbon cycle is first described",
+      "who": "Carl Friedrich von Weizsäcker",
+      "where": "Germany",
+      "country": "Germany",
+      "text": "Von Weizsäcker proposed a cycle in which carbon, nitrogen and oxygen nuclei help turn hydrogen into helium. The carbon is not used up. He described it only in words and did not work out the energy.",
+      "why": "This cycle, called CNO, powers stars heavier than the Sun.",
+      "box": "fusion",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1939,
+      "date": "1938–1939",
+      "era": "source",
+      "art": "atomspin",
+      "key": true,
+      "title": "How stars shine, worked out",
+      "who": "Hans Bethe, with Charles Critchfield",
+      "where": "United States",
+      "country": "United States",
+      "text": "Bethe and Critchfield worked out the proton–proton chain. Bethe then worked out the carbon cycle in about two weeks. His 1939 paper explained how stars turn hydrogen into helium. He thought the Sun used the carbon cycle, but it mostly uses the proton–proton chain.",
+      "why": "It answered the question of how stars shine, and won Bethe the 1967 Nobel Prize.",
+      "box": "fusion",
+      "sources": [
+        31,
+        2,
+        5
+      ]
+    },
+    {
+      "year": 1956,
+      "date": "1956",
+      "era": "ghost",
+      "art": "flask",
+      "title": "The neutrino is caught",
+      "who": "Clyde Cowan and Frederick Reines",
+      "where": "Savannah River Plant, USA",
+      "country": "United States",
+      "text": "Cowan and Reines put tanks of water next to a nuclear reactor. They saw about three neutrino events an hour, and fewer when the reactor was off. Pauli's ghost particle was real.",
+      "why": "It proved neutrinos could be detected, which opened the way to catching them from the Sun.",
+      "box": "",
+      "sources": [
+        33
+      ]
+    },
+    {
+      "year": 1956,
+      "date": "1956",
+      "era": "source",
+      "art": "person",
+      "title": "A first for women at Harvard",
+      "who": "Cecilia Payne-Gaposchkin",
+      "where": "Harvard University, Cambridge, Massachusetts",
+      "country": "United States",
+      "text": "About thirty years after her thesis, Payne-Gaposchkin became Harvard's first woman professor. She also became the first woman to chair a department there.",
+      "why": "Her rise shows how long recognition took for the scientist who found what stars are made of.",
+      "box": "",
+      "sources": [
+        25
+      ]
+    },
+    {
+      "year": 1957,
+      "date": "1957",
+      "era": "source",
+      "art": "atomspin",
+      "key": true,
+      "title": "Stars make the elements",
+      "who": "Margaret Burbidge, Geoffrey Burbidge, William Fowler and Fred Hoyle",
+      "where": "Cambridge, England, and Caltech, Pasadena, USA",
+      "country": "United States",
+      "text": "Four scientists wrote a paper of over 100 pages, known as B2FH. It showed how stars build heavier elements by fusion, and how dying stars spread them into space. Margaret Burbidge was the first author.",
+      "why": "Almost every atom heavier than helium was made inside a star.",
+      "box": "life",
+      "sources": [
+        34,
+        35,
+        36
+      ]
+    },
+    {
+      "year": 1968,
+      "date": "1960s; first results 1968",
+      "era": "ghost",
+      "art": "flask",
+      "key": true,
+      "title": "Too few neutrinos from the Sun",
+      "who": "Raymond Davis Jr and John Bahcall",
+      "where": "Homestake Gold Mine, Lead, South Dakota, USA",
+      "country": "United States",
+      "text": "Davis put a 610-ton tank of dry-cleaning fluid 1,480 metres underground. Bahcall calculated how many solar neutrinos it should catch. Davis found only about a third of the expected number. This became the solar neutrino problem.",
+      "why": "It was the first look inside the Sun's core, and it raised a 30-year puzzle.",
+      "box": "walk",
+      "sources": [
+        38,
+        37,
+        2,
+        45
+      ]
+    },
+    {
+      "year": 1987,
+      "date": "23 February 1987",
+      "era": "ghost",
+      "art": "blackhole",
+      "title": "Neutrinos from an exploding star",
+      "who": "Masatoshi Koshiba and the Kamiokande team",
+      "where": "Kamioka, Japan",
+      "country": "Japan",
+      "text": "A star blew up in the Large Magellanic Cloud, about 160,000 light-years away. The Kamiokande detector in Japan caught 11 of its neutrinos in about 13 seconds. Koshiba shared the 2002 Nobel Prize with Davis.",
+      "why": "It confirmed that collapsing stars release most of their energy as neutrinos.",
+      "box": "life",
+      "sources": [
+        39,
+        40
+      ]
+    },
+    {
+      "year": 1998,
+      "date": "June 1998",
+      "era": "ghost",
+      "art": "atomspin",
+      "title": "Neutrinos change type",
+      "who": "Takaaki Kajita and the Super-Kamiokande team",
+      "where": "Kamioka, Japan",
+      "country": "Japan",
+      "text": "Super-Kamiokande saw fewer neutrinos coming up through the Earth than expected. This was strong evidence that neutrinos switch between types as they travel. Kajita shared the 2015 Nobel Prize for it.",
+      "why": "It hinted that the missing solar neutrinos had not vanished, only changed.",
+      "box": "walk",
+      "sources": [
+        41,
+        39,
+        45
+      ]
+    },
+    {
+      "year": 2002,
+      "date": "June 2001 and April 2002",
+      "era": "ghost",
+      "art": "atomspin",
+      "key": true,
+      "title": "The missing neutrinos are found",
+      "who": "Arthur McDonald and the SNO team",
+      "where": "Sudbury, Ontario, Canada",
+      "country": "Canada",
+      "text": "SNO used 1,000 tons of heavy water about 2 km underground. It could count all types of neutrino, not just one. Only about a third arrived as the type the Sun makes, but the total matched the solar model.",
+      "why": "It solved the solar neutrino problem and showed that fusion theory had been right all along.",
+      "box": "walk",
+      "sources": [
+        42,
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "year": 2014,
+      "date": "August 2014",
+      "era": "ghost",
+      "art": "atomspin",
+      "title": "The first step of fusion, seen live",
+      "who": "Borexino Collaboration",
+      "where": "Gran Sasso Laboratory, Italy",
+      "country": "Italy",
+      "text": "Borexino detected neutrinos from the very first proton–proton reaction in the Sun's core. This reaction drives about 99% of the Sun's energy. The neutrinos reach Earth in just over eight minutes.",
+      "why": "It showed the Sun's core makes energy today at the same rate implied by its sunlight.",
+      "box": "fusion",
+      "sources": [
+        46,
+        48
+      ]
+    },
+    {
+      "year": 2020,
+      "date": "25 November 2020",
+      "era": "ghost",
+      "art": "atomspin",
+      "key": true,
+      "title": "The carbon cycle, proven",
+      "who": "Borexino Collaboration",
+      "where": "Gran Sasso Laboratory, Italy",
+      "country": "Italy",
+      "text": "Borexino reported the first neutrinos from the CNO cycle in the Sun. The cycle makes only about 1% of the Sun's energy. It is thought to be the main engine of stars heavier than the Sun.",
+      "why": "It confirmed the last missing piece of Bethe's 1939 picture.",
+      "box": "fusion",
+      "sources": [
+        47,
+        48
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Dark lines mapped in sunlight",
+      "value": "1814",
+      "who": "Joseph von Fraunhofer, Bavaria"
+    },
+    {
+      "label": "Element found in the Sun before Earth",
+      "value": "1868 (on Earth 1895)",
+      "who": "Helium: Janssen and Lockyer; William Ramsay"
+    },
+    {
+      "label": "Proposal that stars run on fusion",
+      "value": "1920",
+      "who": "Arthur Eddington, Cardiff"
+    },
+    {
+      "label": "Stars shown to be mostly hydrogen",
+      "value": "1925",
+      "who": "Cecilia Payne, Harvard"
+    },
+    {
+      "label": "Solar neutrinos detected",
+      "value": "1960s (first results 1968)",
+      "who": "Raymond Davis Jr, Homestake mine, USA"
+    },
+    {
+      "label": "Neutrinos caught from a supernova",
+      "value": "1987",
+      "who": "Kamiokande, Japan (and IMB, USA)"
+    },
+    {
+      "label": "CNO-cycle neutrinos detected",
+      "value": "2020",
+      "who": "Borexino, Gran Sasso, Italy"
+    }
+  ],
+  "people": [
+    {
+      "name": "Anaxagoras",
+      "life": "c. 500 – 428 BCE",
+      "role": "Philosopher",
+      "from": "Clazomenae",
+      "note": "Called the Sun a red-hot stone and was charged with impiety."
+    },
+    {
+      "name": "Joseph von Fraunhofer",
+      "life": "1787 – 1826",
+      "role": "Optician and glassmaker",
+      "from": "Bavaria",
+      "note": "Mapped hundreds of dark lines in sunlight."
+    },
+    {
+      "name": "Gustav Kirchhoff",
+      "life": "1824 – 1887",
+      "role": "Physicist",
+      "from": "Königsberg",
+      "note": "With Bunsen, showed how to read the elements in light."
+    },
+    {
+      "name": "Williamina Fleming",
+      "life": "1857 – 1911",
+      "role": "Astronomer",
+      "from": "Scotland",
+      "note": "Sorted stars into lettered spectral types at Harvard."
+    },
+    {
+      "name": "Antonia Maury",
+      "life": "1866 – 1952",
+      "role": "Astronomer",
+      "from": "United States",
+      "note": "Her line-width classes helped separate giants from dwarfs."
+    },
+    {
+      "name": "Annie Jump Cannon",
+      "life": "1863 – 1941",
+      "role": "Astronomer",
+      "from": "United States",
+      "note": "Created the O, B, A, F, G, K, M classes."
+    },
+    {
+      "name": "Meghnad Saha",
+      "life": "1893 or 1894 – 1956",
+      "role": "Astrophysicist",
+      "from": "India (now Bangladesh)",
+      "note": "His ionisation equation tied star spectra to temperature."
+    },
+    {
+      "name": "Cecilia Payne-Gaposchkin",
+      "life": "1900 – 1979",
+      "role": "Astronomer",
+      "from": "England",
+      "note": "Showed stars are mostly hydrogen and helium."
+    },
+    {
+      "name": "Arthur Eddington",
+      "life": "1882 – 1944",
+      "role": "Astrophysicist",
+      "from": "England",
+      "note": "First proposed that stars fuse hydrogen into helium."
+    },
+    {
+      "name": "Subrahmanyan Chandrasekhar",
+      "life": "1910 – 1995",
+      "role": "Astrophysicist",
+      "from": "India (born in Lahore)",
+      "note": "Found the mass limit for white dwarfs."
+    },
+    {
+      "name": "Hans Bethe",
+      "life": "1906 – 2005",
+      "role": "Physicist",
+      "from": "Germany, later USA",
+      "note": "Worked out the fusion reactions that power stars."
+    },
+    {
+      "name": "Margaret Burbidge",
+      "life": "1919 – 2020",
+      "role": "Astronomer",
+      "from": "England, later USA",
+      "note": "First author of the B2FH paper on how stars make elements."
+    },
+    {
+      "name": "Raymond Davis Jr",
+      "life": "1914 – 2006",
+      "role": "Chemist",
+      "from": "United States",
+      "note": "Caught the first neutrinos from the Sun."
+    },
+    {
+      "name": "Masatoshi Koshiba",
+      "life": "1926 – 2020",
+      "role": "Physicist",
+      "from": "Japan",
+      "note": "Led Kamiokande, which caught neutrinos from a supernova."
+    },
+    {
+      "name": "Takaaki Kajita",
+      "life": "",
+      "role": "Physicist",
+      "from": "Japan",
+      "note": "Found that neutrinos change type, using Super-Kamiokande."
+    }
+  ],
+  "series": [
+    {
+      "id": "sunage",
+      "title": "How long scientists thought the Sun had been shining",
+      "unit": "years",
+      "log": true,
+      "after": "fire",
+      "caption": "Before fusion, estimates ranged from thousands to millions of years. Most are upper limits, not exact ages. Today the Sun's age is put at about 4.6 billion years.",
+      "points": [
+        {
+          "year": 1854,
+          "value": 32000,
+          "label": "Thomson's meteor theory: hardly more than about 32,000 years"
+        },
+        {
+          "year": 1862,
+          "value": 100000000,
+          "label": "Thomson: most probably under 100 million years"
+        },
+        {
+          "year": 1871,
+          "value": 20000000,
+          "label": "Helmholtz: about 20 million years"
+        },
+        {
+          "year": 1878,
+          "value": 18000000,
+          "label": "Newcomb: a total life of about 18 million years"
+        },
+        {
+          "year": 1887,
+          "value": 20000000,
+          "label": "Kelvin: no more than about 20 million years"
+        },
+        {
+          "year": 2025,
+          "value": 4600000000,
+          "label": "Today (NASA): formed about 4.6 billion years ago"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "The Sun's core is about 15 million °C, according to NASA.",
+    "Energy from the core takes about 170,000 years to work its way out to the Sun's convection zone.",
+    "Burning coal or wood could keep the Sun shining for only a few thousand years.",
+    "About 700 million neutrinos from the CNO cycle pass through each square centimetre of Earth every second.",
+    "Helium was found in the Sun 27 years before it was found on Earth."
+  ],
+  "sources": [
+    {
+      "title": "Before Bethe: Early Ideas of the Sun's Generation of Energy (arXiv:2209.00072)",
+      "publisher": "arXiv (Helge Kragh, Niels Bohr Institute)",
+      "url": "https://arxiv.org/abs/2209.00072"
+    },
+    {
+      "title": "The Source of Solar Energy, ca. 1840-1910: From Meteoric Hypothesis to Radioactive Speculations (arXiv:1609.02834)",
+      "publisher": "arXiv (Helge Kragh)",
+      "url": "https://arxiv.org/abs/1609.02834"
+    },
+    {
+      "title": "Stellar Energy Generation and Solar Neutrinos (John N. Bahcall and Edwin E. Salpeter, 2005)",
+      "publisher": "Physics Today (AIP Publishing)",
+      "url": "https://physicstoday.aip.org/features/stellar-energy-generation-and-solar-neutrinos"
+    },
+    {
+      "title": "Eddington in Cardiff 100 years ago today: the first proposal that stars are powered by fusion",
+      "publisher": "The Rumbling Universe (blog of astrophysicist Bernard Schutz)",
+      "url": "https://bfschutz.com/2020/08/24/eddington-in-cardiff-100-years-ago-today-the-first-proposal-that-stars-are-powered-by-fusion/"
+    },
+    {
+      "title": "16.1 Sources of Sunshine: Thermal and Gravitational Energy (Astronomy 2e)",
+      "publisher": "OpenStax, Rice University",
+      "url": "https://openstax.org/books/astronomy-2e/pages/16-1-sources-of-sunshine-thermal-and-gravitational-energy"
+    },
+    {
+      "title": "Sun: Facts",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/sun/facts/"
+    },
+    {
+      "title": "Anaxagoras",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/anaxagoras/"
+    },
+    {
+      "title": "Anaxagoras",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Anaxagoras"
+    },
+    {
+      "title": "The Glassmaker Who Sparked Astrophysics (Kitty Ferguson, 2014)",
+      "publisher": "Nautilus",
+      "url": "https://nautil.us/the-glassmaker-who-sparked-astrophysics-234827"
+    },
+    {
+      "title": "Joseph von Fraunhofer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Joseph_von_Fraunhofer"
+    },
+    {
+      "title": "This Month in Physics History (Bunsen, Kirchhoff and the spectroscope; May 2018)",
+      "publisher": "APS News, American Physical Society",
+      "url": "https://www.aps.org/apsnews/2018/05/this-month-in-physics-history"
+    },
+    {
+      "title": "August 18 and October 20, 1868: Discovery of Helium",
+      "publisher": "APS News, American Physical Society",
+      "url": "https://www.aps.org/publications/apsnews/201409/physicshistory.cfm"
+    },
+    {
+      "title": "150 years since the discovery of Helium",
+      "publisher": "Science Museum Blog (London)",
+      "url": "https://blog.sciencemuseum.org.uk/150-years-since-the-discovery-of-helium/"
+    },
+    {
+      "title": "Plate 2: Spectra of Secchi star classes I–III",
+      "publisher": "Science History Institute Digital Collections",
+      "url": "https://digital.sciencehistory.org/works/db78tc05q"
+    },
+    {
+      "title": "Williamina Fleming (Scientist of the Day)",
+      "publisher": "Linda Hall Library",
+      "url": "https://www.lindahall.org/about/news/scientist-of-the-day/williamina-fleming/"
+    },
+    {
+      "title": "Antonia Maury",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Antonia_Maury"
+    },
+    {
+      "title": "The Stars Behind Our Stellar Classification System (Dava Sobel, 2016)",
+      "publisher": "Science Friday",
+      "url": "https://www.sciencefriday.com/articles/the-stars-behind-our-stellar-classification-system/"
+    },
+    {
+      "title": "Annie Jump Cannon (Scientist of the Day)",
+      "publisher": "Linda Hall Library",
+      "url": "https://www.lindahall.org/about/news/scientist-of-the-day/annie-jump-cannon/"
+    },
+    {
+      "title": "Annie Jump Cannon (1863–1941)",
+      "publisher": "Physics Today (AIP Publishing)",
+      "url": "https://physicstoday.aip.org/news/annie-jump-cannon-1863-1941"
+    },
+    {
+      "title": "Annie Jump Cannon",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Annie_Jump_Cannon"
+    },
+    {
+      "title": "Henry Norris Russell (Scientist of the Day)",
+      "publisher": "Linda Hall Library",
+      "url": "https://www.lindahall.org/about/news/scientist-of-the-day/henry-norris-russell/"
+    },
+    {
+      "title": "Hertzsprung–Russell diagram",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hertzsprung%E2%80%93Russell_diagram"
+    },
+    {
+      "title": "Saha, Meghnad (Complete Dictionary of Scientific Biography)",
+      "publisher": "Encyclopedia.com",
+      "url": "https://encyclopedia.com/people/science-and-technology/physics-biographies/meghnad-saha"
+    },
+    {
+      "title": "Meghnad Saha: work, life and times (Rajesh Kochhar)",
+      "publisher": "Proceedings of the International Astronomical Union, Cambridge University Press",
+      "url": "https://cambridge.org/core/journals/proceedings-of-the-international-astronomical-union/article/meghnad-saha-work-life-and-times/DBCF4B1DC8A18C9E01FD4439BC7FA86B"
+    },
+    {
+      "title": "Meghnad Saha",
+      "publisher": "Physics Today (AIP Publishing)",
+      "url": "https://physicstoday.aip.org/news/meghnad-saha"
+    },
+    {
+      "title": "Cecilia Payne-Gaposchkin (1900 - 1979) - Biography",
+      "publisher": "MacTutor History of Mathematics, University of St Andrews",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Payne-Gaposchkin/"
+    },
+    {
+      "title": "Cecilia Payne-Gaposchkin (Scientist of the Day)",
+      "publisher": "Linda Hall Library",
+      "url": "https://www.lindahall.org/about/news/scientist-of-the-day/cecilia-payne-gaposchkin/"
+    },
+    {
+      "title": "Arthur Eddington (1882 - 1944) - Biography",
+      "publisher": "MacTutor History of Mathematics, University of St Andrews",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Eddington/"
+    },
+    {
+      "title": "Subrahmanyan Chandrasekhar (1910 - 1995) - Biography",
+      "publisher": "MacTutor History of Mathematics, University of St Andrews",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Chandrasekhar/"
+    },
+    {
+      "title": "Subrahmanyan Chandrasekhar - The Man Behind The Name",
+      "publisher": "Chandra X-ray Center, Harvard & Smithsonian / NASA",
+      "url": "https://chandra.harvard.edu/about/chandra.html"
+    },
+    {
+      "title": "The Chandrasekhar-Eddington dispute",
+      "publisher": "MacTutor History of Mathematics, University of St Andrews",
+      "url": "https://mathshistory.st-andrews.ac.uk/HistTopics/Chandrasekhar_Eddington/"
+    },
+    {
+      "title": "Hans Bethe (1906 - 2005) - Biography",
+      "publisher": "MacTutor History of Mathematics, University of St Andrews",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bethe/"
+    },
+    {
+      "title": "1930 (neutrino history timeline)",
+      "publisher": "IceCube Neutrino Observatory, University of Wisconsin–Madison",
+      "url": "https://icecube.wisc.edu/?p=8614"
+    },
+    {
+      "title": "1956 – First discovery of the neutrino by an experiment",
+      "publisher": "IceCube Neutrino Observatory, University of Wisconsin–Madison",
+      "url": "https://icecube.wisc.edu/neutrino-history/1956/01/1956-first-discovery-of-the-neutrino-by-an-experiment/"
+    },
+    {
+      "title": "Geoffrey Ronald Burbidge (Scientist of the Day)",
+      "publisher": "Linda Hall Library",
+      "url": "https://lindahall.org/about/news/scientist-of-the-day/geoffrey-ronald-burbidge"
+    },
+    {
+      "title": "B2FH paper",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/B2FH_paper"
+    },
+    {
+      "title": "Margaret Burbidge",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Margaret_Burbidge"
+    },
+    {
+      "title": "Nobel Laureate Raymond Davis Dies",
+      "publisher": "Brookhaven National Laboratory Newsroom",
+      "url": "https://www.bnl.gov/newsroom/news.php?a=110496"
+    },
+    {
+      "title": "Raymond Davis Jr (obituary)",
+      "publisher": "Physics Today (AIP Publishing)",
+      "url": "https://physicstoday.aip.org/obituaries/raymond-davis-jr"
+    },
+    {
+      "title": "30 years after the detection of SN1987A neutrinos",
+      "publisher": "Kamioka Observatory, ICRR, University of Tokyo",
+      "url": "https://www-sk.icrr.u-tokyo.ac.jp/en/news/detail/272"
+    },
+    {
+      "title": "Masatoshi Koshiba",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Masatoshi_Koshiba"
+    },
+    {
+      "title": "Super-Kamiokande Research History",
+      "publisher": "Kamioka Observatory, ICRR, University of Tokyo",
+      "url": "https://www-sk.icrr.u-tokyo.ac.jp/en/sk/about/history/"
+    },
+    {
+      "title": "Sensitive measurement by SNO observes solar neutrinos in a new way (20 April 2002)",
+      "publisher": "Sudbury Neutrino Observatory, Queen's University",
+      "url": "https://sno.phy.queensu.ca/results_04_02/"
+    },
+    {
+      "title": "New SNO Data Resolves Solar Neutrino Problem",
+      "publisher": "APS News, American Physical Society",
+      "url": "https://www.aps.org/apsnews/2002/06/new-sno-data-resolves-solar-neutrino-problem"
+    },
+    {
+      "title": "The Sudbury Neutrino Observatory and the Solution of the Solar Neutrino Problem",
+      "publisher": "APS Division of Nuclear Physics",
+      "url": "https://engage.aps.org/dnp/resources/solar-neutrino"
+    },
+    {
+      "title": "Solar neutrino problem",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Solar_neutrino_problem"
+    },
+    {
+      "title": "Detection of pp-neutrinos provides first direct measurement of solar power at its production",
+      "publisher": "Johannes Gutenberg University Mainz (press release)",
+      "url": "https://press.uni-mainz.de/?p=17555"
+    },
+    {
+      "title": "Solar CNO neutrinos observed for the first time",
+      "publisher": "Johannes Gutenberg University Mainz (press release)",
+      "url": "https://press.uni-mainz.de/solar-cno-neutrinos-observed-for-the-first-time/"
+    },
+    {
+      "title": "Borexino Achieves the First Experimental Test of How Massive Stars Shine",
+      "publisher": "APC Laboratory (Astroparticle and Cosmology), Université Paris Cité",
+      "url": "https://apc.u-paris.fr/en/borexino-achieves-first-experimental-test-how-massive-stars-shine"
+    },
+    {
+      "title": "Kelvin, Wenner, and the Ages of the Sun and the Earth",
+      "publisher": "AIP Niels Bohr Library & Archives",
+      "url": "https://www.aip.org/history-programs/niels-bohr-library/ex-libris-universum/kelvin-wenner-and-ages-sun-and-earth"
+    }
+  ]
+}
